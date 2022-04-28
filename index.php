@@ -1,1 +1,1 @@
-<?php include_once("indexecho '{}' > composer.json.html"); ?>
+<?php include_once("index.html"); ?>
